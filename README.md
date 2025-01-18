@@ -99,3 +99,22 @@ GNU Lesser General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License
 along with WPPConnect. If not, see <https://www.gnu.org/licenses/>.
+
+
+
+
+
+
+
+
+
+
+
+
+Hop　　　IPLatencia　　　Ubicación IP
+1　　　192.168.100.1　　　1.43 ms     Red interior
+2　　　10.223.64.1　　　3.63 ms     Red interior
+3　　　10.180.23.153　　　4.61 ms     Red interior
+4　　　10.180.23.154　　　16.0 ms     Red interior
+5　　　10.180.23.185　　　3.91 ms     Red interior
+6　　　edge-star-mini-shv-02-dfw5.facebook.com (31.13.93.35)　　　19.1 ms     fuera de la red
